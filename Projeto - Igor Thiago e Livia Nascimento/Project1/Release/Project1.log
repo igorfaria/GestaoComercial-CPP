@@ -1,0 +1,51 @@
+﻿Build started 21/11/2015 15:14:39.
+     1>Project "C:\Users\itf\Desktop\Projects\20112015\FUNFANDO LOUCAO\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib FormPrincipal.cpp
+         FormPrincipal.cpp
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(148): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(58): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(259): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(240): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(243): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(308): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Helpers.h(302): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Produto.h(306): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Produto.h(173): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Produto.h(211): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Produto.h(234): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Produto.h(262): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\Venda.h(206): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\NovaVenda.h(445): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\NovaVenda.h(488): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\NovaVenda.h(591): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\NovoProduto.h(377): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ListarProdutos.h(266): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ListarProdutos.h(289): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ListarProdutos.h(332): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarProduto.h(450): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarProduto.h(496): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarProduto.h(538): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarProduto.h(592): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\AlterarProduto.h(309): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarVenda.h(376): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarVenda.h(393): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ConsultarVenda.h(398): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\ListarVendas.h(210): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasFuncionario.h(246): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasFuncionario.h(267): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasData.h(280): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasValor.h(277): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasValor.h(304): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasValor.h(330): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\VendasValor.h(356): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\itf\desktop\projects\20112015\funfando loucao\project1\FormPrincipal.h(699): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\itf\Desktop\Projects\20112015\FUNFANDO LOUCAO\Release\Project1.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Project1.AlterarProduto.resources /ASSEMBLYRESOURCE:Release\Project1.ConsultarProduto.resources /ASSEMBLYRESOURCE:Release\Project1.ConsultarVenda.resources /ASSEMBLYRESOURCE:Release\Project1.FormPrincipal.resources /ASSEMBLYRESOURCE:Release\Project1.ListarProdutos.resources /ASSEMBLYRESOURCE:Release\Project1.ListarVendas.resources /ASSEMBLYRESOURCE:Release\Project1.NovaVenda.resources /ASSEMBLYRESOURCE:Release\Project1.NovoProduto.resources /ASSEMBLYRESOURCE:Release\Project1.Venda.resources /ASSEMBLYRESOURCE:Release\Project1.VendasData.resources /ASSEMBLYRESOURCE:Release\Project1.VendasFuncionario.resources /ASSEMBLYRESOURCE:Release\Project1.VendasValor.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\itf\Desktop\Projects\20112015\FUNFANDO LOUCAO\Release\Project1.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\FormPrincipal.obj
+         "Release\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\itf\Desktop\Projects\20112015\FUNFANDO LOUCAO\Release\Project1.exe
+     1>Done Building Project "C:\Users\itf\Desktop\Projects\20112015\FUNFANDO LOUCAO\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.92

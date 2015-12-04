@@ -1,0 +1,167 @@
+﻿Build started 16/11/2015 15:58:32.
+     1>Project "C:\Users\Livia\Desktop\VERSÕES PROJETO\15112015\FUNFANDO LOUCAO\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /errorReport:prompt /clr:nostdlib AlterarProduto.cpp ConsultarVenda.cpp FormPrincipal.cpp NovaVenda.cpp Venda.cpp
+         AlterarProduto.cpp
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(83): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(169): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(206): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Produto.h(275): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+         ConsultarVenda.cpp
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2065: 'VENDAS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C3861: 'Venda': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): error C2228: left of '.listarVendas' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(339): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(341): error C2065: 'Venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(341): error C2146: syntax error: missing ';' before identifier 'venda'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(341): error C2065: 'venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(341): error C3861: 'Venda': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(344): error C2065: 'VENDAS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(344): error C2228: left of '.size' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(344): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C2065: 'VENDAS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(346): error C3861: 'split': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(348): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(348): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(348): error C3861: 'toInt': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(349): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(349): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(349): error C2146: syntax error: missing ';' before identifier 'nome_funcionario'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(349): error C2065: 'nome_funcionario': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(349): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(350): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(350): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(350): error C3861: 'toInt': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(351): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(351): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(351): error C2146: syntax error: missing ';' before identifier 'produtos'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(351): error C2065: 'produtos': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(351): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(352): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(352): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(352): error C3861: 'toDouble': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(353): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(353): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(353): error C2146: syntax error: missing ';' before identifier 'data'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(353): error C2065: 'data': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(353): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(355): error C2065: 'venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(355): error C2228: left of '.getID' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(355): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(355): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(355): error C3861: 'toInt': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(362): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(362): error C2065: 'venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(362): error C2228: left of '.getFuncionario' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(362): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(362): error C3861: 'sysString': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C2039: 'to_string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C2065: 'venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C2228: left of '.getNIF' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C3861: 'to_string': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(363): error C3861: 'sysString': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2065: 'PRODUTOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C3861: 'Produto': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): error C2228: left of '.listarProdutos' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(365): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2065: 'PROD_VENDA': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2065: 'venda': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): error C2228: left of '.getVetorProdutos' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(367): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(370): error C2065: 'PROD_VENDA': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(370): error C2228: left of '.size' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(370): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C2065: 'PROD_VENDA': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(372): error C3861: 'split': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(374): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(374): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(374): error C3861: 'toInt': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(375): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(375): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(375): error C2146: syntax error: missing ';' before identifier 'quantidade'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(375): error C2065: 'quantidade': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(375): error C2065: 'DADOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(377): error C2065: 'PRODUTOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(377): error C2228: left of '.size' must have class/struct/union
+         c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(377): note: type is 'unknown-type'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2039: 'vector': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2065: 'vector': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2039: 'string': is not a member of 'std'
+         predefined C++ types (compiler internal)(211): note: see declaration of 'std'
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2065: 'string': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2065: 'DADOS_2': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2653: 'Ferramentas': is not a class or namespace name
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C2065: 'PRODUTOS': undeclared identifier
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): error C3861: 'split': identifier not found
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\ConsultarVenda.h(379): fatal error C1003: error count exceeds 100; stopping compilation
+         FormPrincipal.cpp
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(83): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(169): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(206): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Produto.h(275): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+         NovaVenda.cpp
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(83): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(169): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(206): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Produto.h(275): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+         Venda.cpp
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(83): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(169): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Helpers.h(206): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\livia\desktop\versões projeto\15112015\funfando loucao\project1\Produto.h(275): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+         Generating Code...
+     1>Done Building Project "C:\Users\Livia\Desktop\VERSÕES PROJETO\15112015\FUNFANDO LOUCAO\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.12

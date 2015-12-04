@@ -1,0 +1,44 @@
+9999|3310|25.000000|10|Nokia|
+6543|Galaxy S5|500.000000|98|Samsung|
+8965|Moto G|299.000000|98|Motorola|Com auricular.
+5|Samsung Edge|700.000000|50|Samsung|Sistema Android^Ecrã: 6.0"^Tecnologia 4G^
+7|Desire Eye|524.990000|99|HTC|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 4.4 Kit Kat^Dimensão do Ecrã	5,2 '
+9|Desire 610 (Dark Blue)|293.990000|99|HTC|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 4.4 KitKat^Dimensão do Ecrã	4,7 '
+11|Bello Dual|129.990000|9|LG|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.4 Kit Kat^Dimensão do Ecrã	5 '
+12|iPhone 4S|299.000000|10|Apple|Sistema Operativo	IOS^Dimensão do Ecrã	5 '
+13|1100|40.000000|9|Nokia|Retoma.
+14|Darkmoon|300.000000|10|Wiko|
+15|Highway (Violeta)|340.210000|100|Wiko|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.2 Jelly bean^Atualizável para Android 4.4 Kit Kat^Dimensão do Ecrã	5 '
+16| i9060i Galaxy Grand Neo Plus Duos (Gold)|154.000000|10|Samsung|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.4 KitKat^Dimensão do Ecrã	5 '
+17|i9060i Galaxy Grand Neo Plus Duos (Black)|154.000000|9|Samsung|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.4 KitKat^Dimensão do Ecrã	5 '
+18|Rainbow UP (Coral)|161.110000|10|Wiko|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 5.0 Lollipop^Dimensão do Ecrã	5 '
+19|E4 Dual Sim - E2115 (White)|161.000000|9|Sony|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.4 Kit Kat^Dimensão do Ecrã	5 '
+20|One - 32GB|249.000000|10|HTC|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 4.1 Jelly Bean (atualizável para Android 4.2)^HTC Sense UI v5^Dimensão do Ecrã	4,7 '
+21|G920F Galaxy S6 - 128GB (Black Sapphire)|699.000000|10|Samsung|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 5.0 Lollipop^Dimensão do Ecrã	5,1 '
+22|Xperia Z Ultra (Black)|359.800000|8|Sony|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 4.2 Jelly Bean^Dimensão do Ecrã	6,4 '
+23|N915 Galaxy Note Edge LTE (Black)|759.900000|10|Samsung|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 4.4 KitKat^Dimensão do Ecrã	5,6 '
+24|G925F Galaxy S6 Edge - 128GB (Gold Platinum)|990.410000|10|Samsung|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 5.0 Lollipop^Dimensão do Ecrã	5,1 '
+25|G925F Galaxy S6 Edge - 128GB (White Pearl)|809.900000|10|Samsung|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 5.0 Lollipop^Dimensão do Ecrã	5,1 '
+26|Classic (Black)|452.350000|10|BlackBerry|Tipo Telemóvel	Smartphone BlackBerry^Sistema Operativo	BlackBerry 10 OS^Dimensão do Ecrã	3,5 '
+27|Passport 4G Vermelho 32GB|651.000000|8|BlackBerry|Tamanho do ecrã na diagonal (pol.)^12,7 cm (5")^Resolução^540 x 960 pixels^Ecrã táctil^Y^Sensor de orientação^Y^Rácio de aspecto^15:9^Tecnologia touch^Multitoque^Tipo de ecrã touch^Capacitivo^Processor frequency^1,2 GHz^Família de processador^Qualcomm Snapdragon^Modelo de processador^MSM 8230^Número de cores de processador^2^RAM interna^1536 MB^Capacidade de armazenamento interno^8 GB^Tipos de Cartão de Memória^MicroSD (TransFlash)^Tamanho máximo de cartão de memória^32 GB^USB armazenamento de massa^Y^Resolução de câmara principal (numérico)^5 MP^Auto focus^Y^Flash incorporado^Y^Segunda câmera^Y^Zoom digital^5x^Gravador de vídeo^Y^Modos de gravação de vídeo^1080p, 720p^Tipo de flash^LED^Resolução de segunda câmara^1,1 MP^3G^Y^4G^Não^Wi-Fi^Y^Padrões 2G^EDGE, GPRS, GSM^Padrões 3G^HSPA+, UMTS^Padrões Wi-Fi^802.11b, 802.11g, 802.11n^Bluetooth^Y^Versão Bluetooth^4.0 LE^2G bands (SIM primário)^850, 900, 1800, 1900 MHz^WCDMA bands supported^900, 1900, 2100 MHz^Tethering (modem-mode)^Y^USB^Y^Conector USB^Micro-USB^Versão USB^2.0^Auscultadores^3,5 mm^Estrutura^Bar^Cor da caixa^Preto^Sistema operativo instalado^BlackBerry OS^Dual SIM support^Não^Versão de sistema operacional^10^Tipo de subscrição^Sem bloqueio de SIM^Sensor de proximidade^Y^Acelerómetro^Y^Sensor de luz ambiente^Y^Gestão de informação pessoal^Despertador, Calculadora, Calendário, Lembrete de eventos, Notas, Lista de tarefas^Modo de avião^Y^Personalização^Ícones, Menu, Atalhos^Apoio para contacto de grupos^Y^Microfone silencioso^Y^Temas^Fundo de ecrã^GPS^Y^Função GPS assistido (A-GPS)^Y^Posicionamento Wi-Fi^Y^Compressão de áudio^3GPP, 3GPP2, AAC, AMR, FLAC, M4A, MKA, MP3, OGG, WAV, WMA^Formatos de vídeo^3GP, ASF, AVI, MOV, MP4, MPEG4, WMV^Formato de compressão de imagens^BMP, GIF, JPG, PNG, SVG, WBMP^Formatos de compressão^H.263, H.264, MPEG4^Codecs de voz^AMR-NB, AMR-WB
+28|Z3 Preto 8GB|215.000000|10|BlackBerry|Tamanho do ecrã na diagonal (pol.)^12,7 cm (5")^Resolução^540 x 960 pixels^Ecrã táctil^Y^Sensor de orientação^Y^Rácio de aspecto^15:9^Tecnologia touch^Multitoque^Tipo de ecrã touch^Capacitivo^Processor frequency^1,2 GHz
+29|Aquaris|599.000000|10|HTC|Tamanho do ecrã na diagonal (pol.)^12,7 cm (5")^Resolução^540 x 960 pixels^Ecrã táctil^Y^Sensor de orientação^Y^Rácio de aspecto^15:9^Tecnologia touch^Multitoque^Tipo de ecrã touch^
+30|XIAOMI MI 4i 16GB (Preto)|235.990000|10|Xiaomi| Xiaomi MI 4i Marca 2G: GSM 850/900/1800 / 1900MH^ 3G
+31|Yezz Billy 4.7 Dual SIM|155.000000|10|Xiaomi|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Windows Phone 8.1^Dimensão do Ecrã	4,7 '
+32|Lumia 930 (Black)|443.000000|100|Nokia|Tipo Telemóvel	Smartphone Windows^Sistema Operativo	Windows Phone 8.1^Dimensão do Ecrã	5 '
+33|Lumia 630 Dual SIM (Bright Orange)|230.000000|10|Nokia|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Windows Phone 8.1^Dimensão do Ecrã	4,5 '
+34|Windows Phone 8X (California Blue)|189.000000|10|HTC|Sistema Operativo	Windows Phone 8^Memória Interna	16 GB^Processador	Qualcomm MSM8960 Snapdragon Dual Core a 1,5GHz
+35|Lumia 800 (Black)|179.000000|10|Nokia|Sistema Operativo	Windows Phone 7.5 Mango^Memória Interna	16 GB^Processador	Qualcomm MSM8255 Snapdragon a 1,4 GHz
+36|Lumia 535 Branco 8GB|129.000000|10|Nokia|Tamanho do ecrã na diagonal (pol.)12,7 cm (5")Resolução960 x 540 
+37|Lumia 630 Double SIM (Amarelo)|141.000000|10|Nokia|Sistema operativo: Windows RT Processador: 1,2 GHz / Quad Core 
+38|Lumia 530 Dual SIM Dark Grey|99.000000|10|Nokia|Tamanho do ecrã na diagonal (pol.)10,16 cm (4")Resolução854 x 480 
+39|Microsoft Lumia 640 XL LTE Dual Sim (8 GB, Laranja)|254.000000|10|Microsoft|O que mais gostamos do Microsoft Lumia 640 XL LTE: O seu ecrã HD de 5.7 polegadas
+40|Moto G LTE - 3ª geração (Black)|209.000000|9|Motorola|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 5.1 Lollipop^Dimensão do Ecrã	5 '
+41|Motorola Moto X Play Branco Dual SIM|360.000000|10|Motorola|
+42|Moto G Dual SIM - 2ª geração (White)|179.000000|10|Motorola|Tipo Telemóvel	Smartphone Dual SIM^Sistema Operativo	Android 4.4 KitKat^Dimensão do Ecrã	5 '
+43|Nexus 6 - 32GB (White)|382.000000|10|Motorola|Tipo Telemóvel	Smartphone Android^Sistema Operativo	Android 5.0 Lollipop^Dimensão do Ecrã	6 '
+44|Acer Liquid Z630 (16 GB, Preto)|204.990000|10|Acer|Sistema operativo: Android 5.1 Lollipop^Processador: Quad Core / 1,3 GHz / Mediatek MT6735^Memória: Interna: 16 GB / Memória RAM: 2 GB / Ranhura de memória: microSD^Ecrã: 5,5" / IPS / Resolução: 1280x720 pixéis / 267 ppp^Câmara: 8 Megapixéis / Flash: LED / Frontal: 8 Megapíxeis^Redes: 4G: LTE Cat. 4 / 3G: HSPA+ MHz / GSM: 850/900/1800/1900 MHz^Micro-SIM^Conetividades: Bluetooth: 4.0 + LE / Wifi: IEEE 802.11 b/g/n^Conexões: Áudio Jack 3.5 mm / Micro-USB^GPS: GPS/A-GPS^
+45|Acer Liquid Jade S |204.990000|10|Acer|Código EXPANSYS: 276584, EAN: 4713147842001, Mfr: HM.HK1EF.001, Marca: Acer
+46|ZenFone 5 4G (Preto)|234.990000|10|Asus|Sistema operativo: Android 4.4 KitKat®^Processador: 1,2 GHz / Quad Core / Qualcomm MSM8926^Memória: Interna: 16 GB / RAM: 2 GB / Slot: microSD / Capacidade max slot: 64 GB^Ecrã: 5,0" / IPS / Resolução: 1280x720 pixéis / 294 ppp^Câmara: 8 Megapixéis / Flash: LED / Frontal: 2 Megapíxeis / Vídeo: 1080p @ 30fps^Redes: 4G: LTE / 3G: 850/900/1900/2100 MHz / GSM: 850/900/1800/1900 MHz^Conetividades: Bluetooth: 4.0+EDR +A2DP / Wifi: IEEE 802.11 b/g/n^Conexões: Áudio Jack 3.5 mm /
+47|ZTE Nubia Z5 NX501 |200.000000|10|ZTE|Smartphone NFC MHL 5.0 Polegadas ^FHD 2GB 16GB ... ^ Z9 mini Smartphone 4G LTE Android 5.0 Octa Core Ecrã 5.0" 
+101|Moto X|599.000000|10|Motorola|Sistema Android 5.0

@@ -1,0 +1,52 @@
+﻿Build started 22/11/2015 21:06:02.
+     1>Project "C:\Users\Livia\Desktop\Projeto - Igor Thiago e Livia Nascimento\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1[Conflito].vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib FormPrincipal.cpp
+         FormPrincipal.cpp
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(148): warning C4091: 'static ': ignored on left of 'Ferramentas' when no variable is declared
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(58): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(256): warning C4091: 'static ': ignored on left of 'Ficheiro' when no variable is declared
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(237): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(240): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(305): warning C4091: 'static ': ignored on left of 'Funcionario' when no variable is declared
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Helpers.h(299): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Produto.h(306): warning C4091: 'static ': ignored on left of 'Project1::Produto' when no variable is declared
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Produto.h(173): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Produto.h(211): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Produto.h(234): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Produto.h(262): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\Venda.h(206): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\NovaVenda.h(445): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\NovaVenda.h(488): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\NovaVenda.h(591): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\NovoProduto.h(377): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ListarProdutos.h(266): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ListarProdutos.h(289): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ListarProdutos.h(332): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarProduto.h(450): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarProduto.h(496): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarProduto.h(538): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarProduto.h(592): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\AlterarProduto.h(309): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarVenda.h(376): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarVenda.h(393): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ConsultarVenda.h(398): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\ListarVendas.h(210): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasFuncionario.h(246): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasFuncionario.h(267): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasData.h(280): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasValor.h(278): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasValor.h(305): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasValor.h(331): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\VendasValor.h(357): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\livia\desktop\projeto - igor thiago e livia nascimento\project1\FormPrincipal.h(699): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Livia\Desktop\Projeto - Igor Thiago e Livia Nascimento\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.AlterarProduto.resources /ASSEMBLYRESOURCE:Debug\Project1.ConsultarProduto.resources /ASSEMBLYRESOURCE:Debug\Project1.ConsultarVenda.resources /ASSEMBLYRESOURCE:Debug\Project1.FormPrincipal.resources /ASSEMBLYRESOURCE:Debug\Project1.ListarProdutos.resources /ASSEMBLYRESOURCE:Debug\Project1.ListarVendas.resources /ASSEMBLYRESOURCE:Debug\Project1.NovaVenda.resources /ASSEMBLYRESOURCE:Debug\Project1.NovoProduto.resources /ASSEMBLYRESOURCE:Debug\Project1.Venda.resources /ASSEMBLYRESOURCE:Debug\Project1.VendasData.resources /ASSEMBLYRESOURCE:Debug\Project1.VendasFuncionario.resources /ASSEMBLYRESOURCE:Debug\Project1.VendasValor.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Livia\Desktop\Projeto - Igor Thiago e Livia Nascimento\Debug\Project1.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\FormPrincipal.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\Livia\Desktop\Projeto - Igor Thiago e Livia Nascimento\Debug\Project1.exe
+     1>Done Building Project "C:\Users\Livia\Desktop\Projeto - Igor Thiago e Livia Nascimento\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.57

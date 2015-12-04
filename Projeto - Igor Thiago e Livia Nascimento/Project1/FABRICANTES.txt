@@ -1,0 +1,14 @@
+﻿
+Apple
+HTC
+LG
+Motorola
+Nokia
+Samsung
+Sony
+Acer
+Asus
+BlackBerry
+Wiko
+Xiaomi
+ZTE

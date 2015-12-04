@@ -1,0 +1,4 @@
+igor|1234|Igor Thiago
+livia|1234|Livia Nascimento
+marco|1234|Marco Pereira
+guest|1234|Convidado
